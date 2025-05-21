@@ -1,2 +1,2 @@
-# MariaMis
-atividades realizadas na sala
+# Matematica-II-3C
+Repositório das aulas de Matemática II.
